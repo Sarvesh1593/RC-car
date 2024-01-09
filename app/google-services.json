@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073211992725",
+    "project_id": "rc-car-7eba6",
+    "storage_bucket": "rc-car-7eba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073211992725:android:5961276a9688fdc20ac99c",
+        "android_client_info": {
+          "package_name": "com.mack.rccar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWugpM8_YiJGvZ1M8IOA5-4W4AlwZpJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
